@@ -15,7 +15,6 @@ posts = [
         'date_posted': 'August 28, 2019'
     },
 ]
-
 # Create your views here.
 def home(request):
     context = {
